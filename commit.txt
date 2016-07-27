@@ -1,0 +1,47 @@
+commit cff822e71b8004dbc037d56a499ce288fa2e03ae
+Author: carlos <cchalco@coboser.com>
+Date:   Wed Jul 20 12:00:17 2016 -0400
+
+    adicion de texto mi nombre
+
+commit e17a1dfaa9d86317e856b2a6d2a0ebf74733a195
+Author: carlos <cchalco@coboser.com>
+Date:   Wed Jul 20 11:57:53 2016 -0400
+
+    links adicionados con nombres
+
+commit 1f01bfb24dc7ffde5e0b8e0a691241dc357e9eff
+Author: carlos <cchalco@coboser.com>
+Date:   Wed Jul 20 08:34:26 2016 -0400
+
+    creacion archivo commit
+
+commit 4303462b59d70ba865a9d86f9adadcc6eea6937c
+Author: carlos <cchalco@coboser.com>
+Date:   Tue Jul 19 18:21:02 2016 -0400
+
+    correcciones realizadas
+
+commit b237d4618888698b400f3f1fc1fe753e5c4ef66f
+Author: carlos <cchalco@coboser.com>
+Date:   Tue Jul 19 17:56:55 2016 -0400
+
+    Se realizo cambios
+
+commit 3b77fd61b02d2f175e971ec91e3858ec48c6a01a
+Author: carlos <cchalco@coboser.com>
+Date:   Tue Jul 19 17:44:04 2016 -0400
+
+    cambios de datos en el archivo
+
+commit 16159628bf42cb5807d8233cb3532b86cbb40e74
+Author: carlos <cchalco@coboser.com>
+Date:   Tue Jul 19 17:38:16 2016 -0400
+
+    cambios en el archivo
+
+commit 0f4d071a8744d545abe9e75acd1f461b59343cf3
+Author: carlos <cchalco@coboser.com>
+Date:   Tue Jul 19 16:27:41 2016 -0400
+
+    estos son los archivos base del portafolio
